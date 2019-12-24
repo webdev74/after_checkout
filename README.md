@@ -1,2 +1,2 @@
-# after_checkout
+# After Checkout
 Codestyle
